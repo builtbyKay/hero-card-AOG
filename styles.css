@@ -1,0 +1,38 @@
+body{
+    color:bl;
+    background-color: crimson;
+    text-align:center;
+}
+
+.hero
+{
+    background-color: grey;
+   padding:30px;
+   max-width:400px;
+   margin:50px auto;
+   border:10px solid black;
+
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: 'open sans' serif;
+}
+
+p
+{
+    font-family:'fairplay' sans-serif;
+    margin:0;
+}
+
+img
+{
+    margin-top:30px;
+    width:100%;
+    height: 400px;
+    object-fit: cover;
+    border:5px solid purple;
+}
+
+
+
